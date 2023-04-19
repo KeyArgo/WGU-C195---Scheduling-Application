@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/view/ModifyAppointmentController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>157</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/ByCustomerController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/AEScheduling/Scheduling.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/ByUserController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/AddCustomerController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/SchedulingController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/utils/DBCustomer.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/ReportsController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/ByTypeController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/controllers/LoginController.java</file>
+            <file>file:/C:/Scheduling/Scheduling/src/AEScheduling/Nat_fr.properties</file>
+        </group>
+    </open-files>
+</project-private>

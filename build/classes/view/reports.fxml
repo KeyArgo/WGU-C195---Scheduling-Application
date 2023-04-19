@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="314.0" prefWidth="224.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ReportsController">
+   <children>
+      <Button fx:id="backButton" layoutX="93.0" layoutY="250.0" mnemonicParsing="false" onAction="#onBack" text="Back" />
+      <Label layoutX="51.0" layoutY="31.0" prefHeight="36.0" prefWidth="124.0" text="Reports">
+         <font>
+            <Font name="Arial Bold" size="31.0" />
+         </font>
+      </Label>
+      <Button fx:id="apTypeButton" layoutX="39.0" layoutY="93.0" mnemonicParsing="false" onAction="#onType" prefHeight="25.0" prefWidth="147.0" text="Appointments by Type" />
+      <Button fx:id="apUserButton" layoutX="39.0" layoutY="127.0" mnemonicParsing="false" onAction="#onUser" prefHeight="25.0" prefWidth="147.0" text="Appointments by User" />
+      <Button fx:id="numCustomersButton" layoutX="39.0" layoutY="162.0" mnemonicParsing="false" onAction="#onNumCustomers" prefHeight="25.0" prefWidth="147.0" text="Number of Customers" />
+   </children>
+</AnchorPane>
